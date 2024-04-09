@@ -1,5 +1,6 @@
 # Hello, I'm Johnson!
-<a href="https://www.linkedin.com/in/johnsonphang/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/johnsonphang/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://www.johnsonphang.com"><img src="https://img.shields.io/badge/-Johnson's%20Portfolio-yellow?&style=for-the-badge&logo=worldwideweb&logoColor=white" /></a>
+
 
 [Brief Introduction - Remove this afterwards]
 
