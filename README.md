@@ -2,14 +2,9 @@
 <a href="https://www.linkedin.com/in/johnsonphang/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://www.johnsonphang.com"><img src="https://img.shields.io/badge/-Johnson's%20Portfolio-yellow?&style=for-the-badge&logo=worldwideweb&logoColor=white" /></a>
 
 
-[Brief Introduction - Remove this afterwards]
+Johnson is a results-oriented professional with a proven track record in impactful contributions at a leading retail automation software company, specializing in securing high-demand products by bypassing Bot Detection Systems designed by major CDN companies. Now actively seeking entry-level roles in Cybersecurity, he aims to apply his expertise, contribute to digital security, and address emerging challenges. Fueled by a newfound passion for cybersecurity, Johnson is committed to continuous learning through certifications, professional guidance, home lab projects, and active participation in monthly Cybersecurity meetups. His journey in Information Technology has sparked a dedication to Cybersecurity, leading him to pursue a second bachelor's degree focusing on Cybersecurity and Information Assurance.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
-## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 
