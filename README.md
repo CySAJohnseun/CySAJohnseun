@@ -10,8 +10,8 @@ Johnson is a results-oriented professional with a proven track record in impactf
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/CySAJohnseun/Nessus-Vulnerability-Scanner">Nessus Vulnerability Scanner</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/CySAJohnseun/T-Pot-Honeypot-and-Attack-Map">Honeypot and Attack Map</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
